@@ -3,6 +3,10 @@ AnciDev: A Dataset for High-Accuracy Handwritten Text Recognition of Ancient Dev
 
 [![Paper Status](https://img.shields.io/badge/Paper-Accepted_(_AACL_BHASHA_2026_)-success)](https://aclanthology.org/2025.bhasha-1.8.pdf)
 
+## Dataset Link : [Google Drive Link](https://drive.google.com/drive/folders/1wOqHgSUPieIoBwQ1ACn6ixpOxBuVo3T6?usp=sharing)
+
+## Code Setup
+For training the CNN-RNN and Attention-OCR models, refer [here](https://github.com/ihdia/sanskrit-ocr)
 ## Citation
 
 If you use this code or find our work helpful, please cite our paper:
